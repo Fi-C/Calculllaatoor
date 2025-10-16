@@ -1,0 +1,17 @@
+// ConsoleApplication4.cpp : This file contains the 'main' function. Program execution begins and ends there.
+//
+
+#include <iostream>
+#define Radians 0.0174533
+
+
+int main()
+{
+    std::cout << Radians << std::endl;
+
+    int degrees;
+        std::cout << "Enter Degrees: ";
+        std::cin >> degrees;
+    
+}
+
